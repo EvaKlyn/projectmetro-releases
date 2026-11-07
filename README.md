@@ -1,3 +1,3 @@
-# metro releases
+# project metro releases page
 
-Download the latest zip from the Releases page; the launcher updates itself from here.
+basically just here to leech github's disk space
